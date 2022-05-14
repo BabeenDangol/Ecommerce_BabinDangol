@@ -1,1 +1,1 @@
-
+a. Objective: -To install Python, its framework, and database tools. -To build a project using the Django framework. -To create our own superuser. -To verify the frontend and backend in the browser. -To add other users and perform CRUD operations -To create product module named Brands
