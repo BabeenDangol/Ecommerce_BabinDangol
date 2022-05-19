@@ -44,19 +44,24 @@ Finally, for source control, we used Git. We built a repository called ecommerce
   1. Installation of python| pip
   
   ![Screenshot 2022-05-19 200206](https://user-images.githubusercontent.com/104016877/169320792-2c6f79fe-bdcb-4f56-88a7-1e2d1819bb6d.jpg)
+  
   2. Creation of project folder
+  
   ![Screenshot (140)](https://user-images.githubusercontent.com/104016877/169320992-2c80e80c-dad7-4f71-88be-e6ae7e789b47.png)
-  4. Migration
+  3. Migration
   ![Screenshot (142)](https://user-images.githubusercontent.com/104016877/169321145-4962e6da-7c1e-4cc4-ae5e-658b4b649f03.png)
-  5. Creating superuser
+  
+  4. Creating superuser
   ![Screenshot (143)](https://user-images.githubusercontent.com/104016877/169321330-f2701a5e-d205-45d6-b4b8-92413e3106a8.png)
-  6. Running server
+  
+  5. Running server
   ![Screenshot (144)](https://user-images.githubusercontent.com/104016877/169321535-95662287-26d9-43ed-89c1-28ffb5c0d106.png)
   ![Screenshot (145)](https://user-images.githubusercontent.com/104016877/169321553-0f57b487-3d0c-49e2-ac2a-c57b5998c898.png)
   ![Screenshot (146)](https://user-images.githubusercontent.com/104016877/169321558-621ffa95-a9d6-495a-8917-e76e171bb59a.png)
-  7. Logging In
+  6. Logging In
   ![Screenshot (147)](https://user-images.githubusercontent.com/104016877/169321604-4ef824c0-fbb7-434a-b351-35968cc6c844.png)
-  8. Git initialization
+  
+  7. Git initialization
   ![Screenshot (148)](https://user-images.githubusercontent.com/104016877/169321822-bcbd8020-f83e-4af2-8cdd-89e10767bb0d.png)
 
   ## e. Conclusion:
