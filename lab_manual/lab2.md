@@ -67,16 +67,19 @@
  **2. Brand Model**
  
    ![Screenshot2](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190201.jpg)
+
    ![ss3](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190219.jpg)
 
   **3. Category model**
 
    ![ss4](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190237.jpg?raw%3Dtrue)
+
    ![ss5](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190248.jpg?raw%3Dtrue)
 
  **4. Product model**
 
    ![ss6](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190306.jpg)
+   
    ![ss7](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190321.jpg)
 
   ## e. Conclusion:
