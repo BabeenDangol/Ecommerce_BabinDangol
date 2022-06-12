@@ -58,24 +58,27 @@
     
 
   ## d. Output
+  
   **1. Adding the models Brand, Category and Product**
+
   ![Screenshot1](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190129.jpg?raw%3Dtrue)
   
   
  **2. Brand Model**
 
-  ![Screenshot2](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190201.jpg)
-  ![ss3](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190219.jpg)
+    ![Screenshot2](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190201.jpg)
+    ![ss3](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190219.jpg)
 
   **3. Category model**
 
-  ![ss4](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190237.jpg?raw%3Dtrue)
-  ![ss5](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190248.jpg?raw%3Dtrue)
+    ![ss4](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190237.jpg?raw%3Dtrue)
+    ![ss5](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190248.jpg?raw%3Dtrue)
 
  **4. Product model**
-  ![ss6](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190306.jpg)
-  ![ss7](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190321.jpg)
+
+    ![ss6](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190306.jpg)
+    ![ss7](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/Screenshot%202022-06-12%20190321.jpg)
 
   ## e. Conclusion:
-  
-  As a result, in the second lab, we created the darnd,category and producl models.They are realated to each other through one eo many relationship.We have also used different data types provided by django.
+
+   As a result, in the second lab, we created the darnd,category and producl models.They are realated to each other through one eo many relationship.We have also used different data types provided by django.
