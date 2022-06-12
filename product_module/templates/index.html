@@ -26,7 +26,7 @@
         </div>
         <div>
             <form class="form-inline" method="POST">
-                {% csrf_token %}
+                {%csrf_token %}
                 <div>
                     <input name="query" class="form-control" type="text" placeholder="Search/enter price-range" aria-label="Search" value="{{search_query}}">
                 </div>
@@ -53,7 +53,7 @@
             <input type="hidden" name="id" value="{{product.id}}" />
             <input type="number" name="qty" value="1" aria-label="Search" class="form-control" style="width: 100px">
             <button id="btn-add-to-cart" class="btn btn-primary btn-md"
-            type="submit" data-toggle="modal" data-target="#cart-model"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to cart</button>
+            type="submit" data-toggle="modal" data-target="#cart-model"> <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to cart</button>
         </form>
     </div>
     <div class="col-md-5">
