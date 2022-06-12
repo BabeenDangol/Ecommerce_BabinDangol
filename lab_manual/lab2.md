@@ -4,7 +4,7 @@
   ## a. Introduction:
   
   In our first lab, we made a produvt module. Presently, we include a brand, product and category within the product module which encompasses a structure of the er graph as appeared underneath:
-  
+  ![](c:/Users/Dell/Documents/ER-product_module.png)
   
    ## b.Objective: 
  
