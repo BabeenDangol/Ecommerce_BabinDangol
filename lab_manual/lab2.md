@@ -4,7 +4,7 @@
   ## a. Introduction:
   
   In our first lab, we made a produvt module. Presently, we include a brand, product and category within the product module which encompasses a structure of the er graph as appeared underneath:
- 
+  ![Screenshot1](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/images/ER-product_module.png?raw%3Dtrue)
   
    ## b.Objective: 
  
