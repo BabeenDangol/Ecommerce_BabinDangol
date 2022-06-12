@@ -16,33 +16,47 @@
 
   ## c. Procedure:
 
-**1. Initializing environment**
+**1. Adding the model Brand in the models.py**
 
   We downloaded the software and environments required for the project. Those were:
-  * Python
-  * Pip
-  * Sqlite
-  * DBeaver
-  * Django
-  * VS Code
-  * Github account
 
-**2. we initialize django project and migrated files**
+    class Category(models.Model):
+    name = models.CharField(max_length=200)
+    is_active = models.BooleanField()
+    class Meta:
+    verbose_name_plural = "Categories"
 
-    syntax:
-      python - m django startproject ecommerce_babin
-      cd ecommerce_babin
+**2. Adding the model Product in the models.py**
+
+    class Product(models.Model):
+    name = models.CharField(max_length=200)
+    price = models.FloatField()
+    quantity = models.IntegerField()
+    image_url = models.CharField(max_length=500)
+    color_code = models.CharField(max_length=20)
+    brand = models.ForeignKey(Brand, on_delete=models.CASCADE)
+    category = models.ForeignKey(Category, on_delete=models.CASCADE)
+    registered_on = models.DateTimeField()
+    is_active = models.BooleanField()
       
       
- **3. initialize the database** 
+ **3. Making changes to the db by performing migrations** 
  
-     To run the project: 
-     syntax:              
-        python manage.py runserver
-              To add a module: python manage.py startapp product_module
+    python manage.py makemigrations
+    python manage.py migrate
               
-  **4. Source Control**
-Finally, for source control, we used Git. We built a repository called ecommerce babin and a markdown file called "lab1.md" that contains this document. The code and folder were then committed and published to the repository. The repository is now available at:https://github.com/BabeenDangol/Ecommerce_BabinDangol/
+  **4. Adding the following code to admin.py for enabling CRUD operations in the admin site**
+
+    from .models import Brand, Category, Product
+    admin.site.register(Brand)
+    admin.site.register(Category)
+    admin.site.register(Product)
+  **5. Finally, running the project and performing CRUD operations on Brand, Category and Product**
+
+    python manage.py runserver
+
+    
+
   ## d. Output
   **1. Installation of python| pip**
   
