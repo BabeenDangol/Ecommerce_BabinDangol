@@ -1,15 +1,18 @@
-# Lab 1 ECOMMERCE
- ## a.Objective: 
+# Lab 2 Adding Brand, Category and Product
+
+
+  ## a. Introduction:
+  
+  In our first lab, we made a produvt module. Presently, we include a brand, product and category within the product module which encompasses a structure of the er graph as appeared underneath:
+  
+  
+   ## b.Objective: 
  
         1.To Add Product, Brand, Category and Color
-        2.To develop a project using the Django framework.  
+        2.To perform CRUD operations on all three models.  
         3.To verify the frontend and backend in the browser. 
-        4.To add other users and perform CRUD operations.
-        5.To create product module named Brands.
-
-  ## b. Introduction:
-  
-  E-commerce refers to a business that conducts its operations over the Internet. Python is a programming language that may be used to create websites and applications, automate processes, and analyze data. Python is a programming language with many uses. To summarize, Python may be used to create a wide range of applications and is not limited to a single problem. Django is a Python web framework that allows for quick development with a simple, functional design. SQLite is a C language package that implements a full-featured SQL database engine that is tiny, quick, self-contained, and dependable. GitHub is a code hosting and collaboration platform.
+        4.To get more information about the admin.py, models.py as well as other files that django framework provides
+        5.To get more information about adding models and how models.py works
 
   ## c. Procedure:
 
