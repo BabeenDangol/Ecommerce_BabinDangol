@@ -1,7 +1,7 @@
 # Lab 1 ECOMMERCE
  ## a.Objective: 
  
-        1.To install Python, its framework, and database tools. 
+        1.To Add Product, Brand, Category and Color
         2.To develop a project using the Django framework.  
         3.To verify the frontend and backend in the browser. 
         4.To add other users and perform CRUD operations.
