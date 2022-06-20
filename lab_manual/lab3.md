@@ -9,9 +9,9 @@
 In our second lab, we created three models brand, category and product in product_module. Now, add the list display and search fields on each of the three models.
 
 ### Objectives
-
-- To add list display, search field and list filter in product model
 - To add list display and search field  in brand and category models
+- To add list display, search field and list filter in product model
+
 ### Procedure
 
 - **Adding the following code to product model of admin.py**
@@ -85,15 +85,16 @@ In our second lab, we created three models brand, category and product in produc
 
 - **The Brand model**
 
-![](/Labsheet/images_lab3/brand.png)
+![s1](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/image%20_lab3/Screenshot%202022-06-20%20205152.jpg?raw%3Dtrue)
 
 - **The Category model**
 
-![](/Labsheet/images_lab3/category.png)
+![s2](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/image%20_lab3/Screenshot%202022-06-20%20205227.jpg)
+
 
 - **The Product model**
 
-![](/Labsheet/images_lab3/products.png)
+![s3](https://github.com/BabeenDangol/Ecommerce_BabinDangol/blob/main/lab_manual/image%20_lab3/Screenshot%202022-06-20%20205247.jpg)
 
 ### Conclusion
 
