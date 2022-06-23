@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from django.db.models import Q
 from product_module.models import Category, Product, Brand
+def index2(request):
+    return render(request, 'index2.html', {})
 def meow(request):
     return render(request, 'meow.html', {})
 def index(request):
