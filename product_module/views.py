@@ -1,12 +1,18 @@
 from django.shortcuts import render
 from django.db.models import Q
 from product_module.models import Category, Product, Brand
-def index2(request):
+def index(request):
     return render(request, 'index.html', {})
-def test(request):
-    return render(request, 'test.html', {})
-def meow(request):
-    return render(request, 'meow.html', {})
+def collection(request):
+    return render(request, 'collection.html', {})
+def shoes(request):
+    return render(request, 'shoes.html', {})
+def racing_boots(request):
+    return render(request, 'racing boots.html', {})
+def contact(request):
+    return render(request, 'contact.html', {})
+
+
 def index(request):
    if request.method == "GET":
       category_id = request.GET.get("category")
