@@ -1,10 +1,9 @@
 from django.urls import path
-from .views import   index,  collection , shoes, contact,racing_boots
+from .views import index,cart,removecart,success_page,error_page
 urlpatterns = [
     path('', index),
-    path('index.html', index),
-    path('collection.html', collection),
-    path('shoes.html', shoes),
-    path('contact.html', contact),
-    path('racing boots.html',racing_boots),
+    path('cart/',cart),
+    path('cart/remove/<int:id>', removecart),
+    path('success_page/', success_page, name="success_page"),
+    path('error_page/', error_page, name="error_page"),
 ]
